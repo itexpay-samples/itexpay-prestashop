@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+/*
+ * Copyright (c) 2023 ItexPay
+ *
+ * Author: Marc Donald AHOURE
+ * Email: dmcorporation2014@gmail.com
+ *
+ * Released under the GNU General Public License
+ */
+-->
+<module>
+    <name>ITEXPAY</name>
+    <displayName><![CDATA[ItexPay]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Accept payments with Visa/ MasterCard / Verve, QR Code , Bank Transfer, E-Naira via ITEXPAY Checkout.]]></description>
+    <author><![CDATA[ITEXPAY]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+    <confirmUninstall><![CDATA[Are you sure you want to delete your details ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+    <limited_countries></limited_countries>
+</module>
